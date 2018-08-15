@@ -8,4 +8,5 @@ attempt second commit.
 
 #Tech used
 Git and github
-SSH
+SSH (service)
+Choco 
